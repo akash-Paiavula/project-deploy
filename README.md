@@ -11,7 +11,7 @@ app/
 │   ├── package.json
 │   ├── nginx.conf
 │   └── Dockerfile
-├── k8s/   ==                    Kubernetes manifests (kustomize)
+├── k8s/                    Kubernetes manifests (kustomize)
 │   ├── namespace.yaml
 │   ├── backend-deployment.yaml / backend-service.yaml
 │   ├── frontend-deployment.yaml / frontend-service.yaml
